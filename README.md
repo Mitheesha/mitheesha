@@ -11,18 +11,6 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/mitheesha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mitheesha_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 <p align="left">
   
@@ -50,4 +38,16 @@
 
 ---
 
-✨ _"Striving to combine creativity, data, and AI to build impactful solutions."_ ✨
+<h3 align="left">🌐 Connect with Me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mitheesha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mitheesha_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ _"Striving to combine creativity, data, and AI to build impactful solutions."_ ✨  
